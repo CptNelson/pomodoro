@@ -1,2 +1,3 @@
 use class="d-flex justify-content-center" to align things to center
 use childNodes[0].textContent to change only the text in HTML element
+timerInterval forgets 'this', so it needs somekind of reminder (let self = this)

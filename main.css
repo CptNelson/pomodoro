@@ -2,3 +2,7 @@ body {
     font-family: 'Cinzel', serif;
     text-align: center;
 }
+
+.btn {
+   /* box-shadow: 2px 2px 5px -2px;*/
+}
