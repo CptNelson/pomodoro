@@ -3,6 +3,12 @@ body {
     text-align: center;
 }
 
+#title {
+    margin: 20px;
+}
 .btn {
-   /* box-shadow: 2px 2px 5px -2px;*/
+    padding: 10px;
+    margin: 5px;
+    
+  /*  box-shadow: 2px 2px 5px -2px; */
 }
